@@ -11,8 +11,6 @@
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Science student (graduating in October 2021)
 
-<br>
-
 ## 👨‍💻 Languages and Tools:
 
 
