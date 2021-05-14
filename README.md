@@ -12,7 +12,6 @@
 * 🎓 I'm a Computer Science student (graduating in October 2021)
 
 <br>
-<br>
 
 ## 👨‍💻 Languages and Tools:
 
